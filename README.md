@@ -114,6 +114,6 @@ Você verá uma maquete 3D interativa das edificações urbanas segmentadas por 
 
 Desenvolvido por Douglas Stein Sabino.
 
-Se tiver dúvidas ou sugestões, sinta-se à vontade para conectar comigo no [LinkedIn](linkedin.com/in/douglas-s-02a221121).
+Se tiver dúvidas ou sugestões, sinta-se à vontade para conectar comigo no [LinkedIn](www.linkedin.com/in/douglas-s-02a221121).
 
 ---
