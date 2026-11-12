@@ -1,0 +1,17 @@
+# Configurações do Projeto: Raio-X Urbano de Vitória-ES
+
+# Dados de entrada no S3 
+s3_prefix: "s3://us-west-2.opendata.source.coop/vida/google-microsoft-open-buildings/geoparquet"
+country_iso: "BRA"
+
+# Filtro de Região de Interesse
+bbox:
+  xmin: -40.35
+  ymin: -20.35
+  xmax: -40.25
+  ymax: -20.25
+
+
+output:
+  flatgeobuf_path: "data/output/edificacoes_vitoria.fgb"
+  html_map_path: "data/output/mapa_3d_urbano.html"
